@@ -20,4 +20,4 @@ https://twitter.com/home?lang=en
 > Author : ArziPL  
 > License : MIT  
 > Last update : 10.03.2021  
-> [x] Finished  
+> Status : Finished  
