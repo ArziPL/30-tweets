@@ -17,7 +17,7 @@ https://www.tweepy.org/
 https://twitter.com/home?lang=en
 ***
 ### Informations
-> Author : ArziPL
-> License : MIT
-> Last update : 10.03.2021
-> [x] Finished
+> Author : ArziPL  
+> License : MIT  
+> Last update : 10.03.2021  
+> [x] Finished  
