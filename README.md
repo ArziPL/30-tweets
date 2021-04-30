@@ -6,7 +6,7 @@ Python script (Tweepy, Twitter API) showing last 30 tweets from Eminem. Point of
 ### How to
 You need to get your Twitter API keys, then paste them (lines 14-18). Then just run `py main.py`. It's gonna show last 30 tweets from Eminem. You can as well change id='Eminem' on line 26 to any id that is on Twitter, then you should get last 30 tweets of that person.
 
-https://www.tweepy.org/
+https://www.tweepy.org/  
 https://twitter.com/home?lang=en
 ***
 ### Informations
