@@ -2,7 +2,7 @@
 ***
 ### DESCRIPTION
 Aim of project :  
-Practice Python, test Twitter API. I love Eminem, but I don't ues Twitter so i did script that prints all of his tweets.
+Practice Python, test Twitter API. I love Eminem, but I don't use Twitter so i did script that prints all of his tweets.
 
 
 Description :  
