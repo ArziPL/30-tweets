@@ -10,6 +10,11 @@ I love Eminem, but I don't use Twitter so i did script that prints all of his tw
 </span>  
 
 ### HOW TO
+First install dependencies
+````
+pip install -r requirements.txt
+````
+
 Get your API keys at https://developer.twitter.com/en/docs/twitter-api and past them here at lines 14-18 :
 ````
 13 Authentication to use Twitter API
@@ -20,6 +25,7 @@ Get your API keys at https://developer.twitter.com/en/docs/twitter-api and past 
 18 
 19 api = tweepy.API(auth)
 ````
+
 Just do that, you should see tweets in console
 ````
 python main.py
