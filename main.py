@@ -2,7 +2,6 @@ import tweepy
 import time
 import sys
 import smtplib
-from config import *
 from email.message import EmailMessage
 from string import Template
 from pathlib import Path
@@ -43,9 +42,9 @@ for item in list_of_tweets:
 print(tweets_string)
 
 
-# Normal - py main.py
-# For my own knowledge i did those things under just to try new things, you can save tweets to txt or send as a email.
-# py main.py [txt] [email]  
+# # Normal - py main.py
+# # For my own knowledge i did those things under just to try new things, you can save tweets to txt or send as a email.
+# # py main.py [txt] [email]  
 
 # # Taking from user info if it is supposed to be txt or send email
 # sending_method = sys.argv[1]
@@ -67,7 +66,7 @@ print(tweets_string)
 #     email['subject'] = 'Your all new Eminem tweets ! :)'
 #     email.set_content(tweets_string)
     
-#     
+    
 #     with smtplib.SMTP_SSL(host='smtp.wp.pl', port=465) as smtp:
 #         smtp.ehlo()
 #         smtp.login('example@example.pl', 'password !') # !!!
